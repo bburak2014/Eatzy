@@ -45,7 +45,7 @@ function Detail() {
               <Col xs="12"  className="imageBox">
                 {" "}
                 <Image
-                  src={`http://localhost:3000/${flt.image}`}
+                  src={`https://eatzy.vercel.app/${flt.image}`}
                   rounded
                   className="detailImage"
                 />
