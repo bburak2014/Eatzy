@@ -1,0 +1,17 @@
+.cardList{
+    cursor: pointer;
+} 
+.CardMain{
+    display: flex;
+    justify-content: space-between;
+}
+.cardTxtRight{
+    text-align: right;
+    display: flex;
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    flex-wrap: wrap;
+    margin: 5px;
+    color: gray;
+}

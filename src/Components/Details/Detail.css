@@ -1,0 +1,21 @@
+.cardDt{
+    margin-top: 250px;
+    margin-bottom:250px ;
+    height: 100%;
+}
+.detailContainer{
+    max-width: 960px;
+}
+.detailImage{
+    width: 100%;
+}
+@media only screen and (max-width: 991px) {
+   
+    .cardDt{
+        margin-top: 40px;
+    }
+} 
+.imageBox{
+    display: flex;
+    align-items: center;
+}
